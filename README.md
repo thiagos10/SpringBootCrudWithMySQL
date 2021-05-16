@@ -78,17 +78,35 @@ Follow the test prints using Insomnia
 Segue os prints de testes utilizando o Insomnia
 
 <br>
-![Alt text](/prints/findall.jpg?raw=true "Find All")
+<p align="center">
+  FIND ALL
+  <img src="/prints/findall.jpg" title="hover text">
+</p>
 <br>
-![Alt text](/prints/findid.jpg?raw=true "Find ID")
+<p align="center">
+  FIND ID
+  <img src="/prints/findid.jpg" title="hover text">
+</p>
 <br>
-![Alt text](/prints/findname.jpg?raw=true "Find Name")
+<p align="center">
+  FIND NAME
+  <img src="/prints/findname.jpg" title="hover text">
+</p>
 <br>
-![Alt text](/prints/cadastro.jpg?raw=true "Cadastro")
+<p align="center">
+  CREATE
+  <img src="/prints/cadastro.jpg" title="hover text">
+</p>
 <br>
-![Alt text](/prints/update.jpg?raw=true "Update")
+<p align="center">
+  UPDATE
+  <img src="/prints/update.jpg" title="hover text">
+</p>
 <br>
-![Alt text](/prints/delete.jpg?raw=true "Delete")
+<p align="center">
+  DELETE
+  <img src="/prints/delete.jpg" title="hover text">
+</p>
 
 <br>
 
